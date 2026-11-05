@@ -4,7 +4,7 @@
     "Первый релиз SunDLC"
   ],
   "mc": "1.21.11",
-  "fabricLoader": "0.16.14",
+  "fabricLoader": "0.18.1",
   "files": [
     {
       "name": "SunDLC.jar",
