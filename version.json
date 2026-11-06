@@ -1,16 +1,16 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "notes": [
-    "Первый релиз SunDLC"
+    "Обновление SunDLC"
   ],
   "mc": "1.21.11",
   "fabricLoader": "0.18.1",
   "files": [
     {
       "name": "SunDLC.jar",
-      "url": "https://github.com/pcixozovv/SunDLC/releases/download/v1.0.1/SunDLC.jar",
-      "sha256": "d2832ee2edab52f39201470675ac825c81f8b40ab4cdba4bb8d818471a54d254",
-      "size": 64439346
+      "url": "https://github.com/pcixozovv/SunDLC/releases/download/v1.0.2/SunDLC.jar",
+      "sha256": "3ce5370b45993eb9e5e739593d0909a817da6d35446d7a5095bfe0f4be09490c",
+      "size": 64439361
     }
   ]
 }
