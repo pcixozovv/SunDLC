@@ -1,5 +1,6 @@
+
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "notes": [
     "Обновление SunDLC"
   ],
@@ -8,9 +9,9 @@
   "files": [
     {
       "name": "SunDLC.jar",
-      "url": "https://github.com/pcixozovv/SunDLC/releases/download/v1.0.2/SunDLC.jar",
-      "sha256": "fd49d84f4d2179e59b9780853747e022ece1b9cddb7ab051f1e15b9d45439d9e",
-      "size": 64441283
+      "url": "https://github.com/pcixozovv/SunDLC/releases/download/v1.0.3/SunDLC.jar",
+      "sha256": "e735ea67a29e2f6e7b4c2995f4ffcb081dd0ef9cb756231ef8abad80fba80bbe",
+      "size": 64440717
     }
   ]
 }
